@@ -2,13 +2,14 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
     name: "{cipher}339ced42495fd1a94c3643c37c66ba1f4d626a334c55bfc18e2920f1a5b7cfb15cd7a7d2fab15a41e06bba91365f8608"
     email: "{cipher}a3b7e9d1d016acffe78d7be64cea6884a76cb2ffa8d1ecc905f95f4882945f72cd4045b1016ee305cbbcbc41b834e95d"
   onCallSupport:
     - "{cipher}e6871e3c7a4a952c199b6f188c2b17abdad445a48bdbbb7c991c6e428c8b8047"
     - "{cipher}b71db1ad4e221042860ea92ad67f91340c55fd6206469eca8aa912f90e518cdf"
+
 
 
 
