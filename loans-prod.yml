@@ -2,13 +2,14 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related webhook APIs "
+  message: "Welcome to EazyBank loans related webhookss APIs "
   contactDetails:
     name: "{cipher}ff14441a53fab6edc4a8d5bbedc1f9fd45433f789ee99f0664bb8d3db88b4161f5ebcf371f970864f9aa2e886a230958"
     email: "{cipher}491c37bfaa967fe5cc7724a4ed050ab1f8b538ff08fbc6c5baf7020629795364b8cc1525d41d4bf37060bfadb1b6f7c3"
   onCallSupport:
     - "{cipher}0dde367448a2ea336e7477bf8841c644a07146867ce8bf2fe21c255287b44528"
     - "{cipher}15cc1fab995eef00d5a3fda5f69070ae5fe1109cc16ae657dd30f0ff9a2f4583"
+
 
 
 
